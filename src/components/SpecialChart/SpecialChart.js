@@ -18,7 +18,7 @@ const SpecialChart = () => {
 
                 });
                 setPhones(phoneData)
-                console.log(phoneData);
+                // console.log(phoneData);
             });
     }, []);
     return (
